@@ -9,7 +9,7 @@ Read more about the origin of Scene Shot Bookmarks at [derekknox.com/articles/sc
 ## Installation
 1. Ensure the `Assets/Editor/SceneShotBookmarks` directory exists in your Unity project
 2. Place all three files in the `SceneShotBookmarks` directory
-  - SceneShotBookmarkModel
-  - SceneShotBookmarksScriptableObject
-  - SceneShotBookmarksWindow
+    - SceneShotBookmarkModel
+    - SceneShotBookmarksScriptableObject
+    - SceneShotBookmarksWindow
 3. In Unity, click the menu Window and click `SceneShotBookmarks`
