@@ -4,7 +4,7 @@ Unity custom editor for bookmarking and resetting Scene View camera angles/setti
 ![Scene Shot Bookmarks Editor Window](http://derekknox.com/articles/scene-shot-bookmarks-in-unity/assets/img/scene-shot-bookmarks-custom-editor.png "Scene Shot Bookmarks Editor Window")
 
 ## Overview
-Read more about Scene Shot Bookmarks at [derekknox.com/articles/scene-shot-bookmarks-in-unity/](http://derekknox.com/articles/scene-shot-bookmarks-in-unity/)
+Read more about the origin of Scene Shot Bookmarks at [derekknox.com/articles/scene-shot-bookmarks-in-unity/](http://derekknox.com/articles/scene-shot-bookmarks-in-unity/)
 
 ## Installation
 1. Ensure the `Assets/Editor/SceneShotBookmarks` directory exists in your Unity project
