@@ -13,3 +13,14 @@ Read more about the origin of Scene Shot Bookmarks at [derekknox.com/articles/sc
     - SceneShotBookmarksScriptableObject
     - SceneShotBookmarksWindow
 3. In Unity, click the Window menu followed by clicking the `SceneShotBookmarks` option
+
+## Usage
+Once installed, you can:
+1. Save the current Scene View camera state (Bookmark button)
+2. Instantly reset the Scene View to a bookmarked camera angle (# button)
+
+Additionally, you can:
+- Share bookmarks with your team (via source control)
+- Persist bookmarks after closing and reopening Unity
+- Associate nicknames to bookmarks for context
+- Change the bookmark count via the Inspector Window
