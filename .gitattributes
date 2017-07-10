@@ -4,9 +4,6 @@
 # Custom for Visual Studio
 *.cs     diff=csharp
 
-# Custom for Unity
-*.meta
-
 # Standard to msysgit
 *.doc	 diff=astextplain
 *.DOC	 diff=astextplain
