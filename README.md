@@ -24,3 +24,5 @@ Additionally, you can:
 - Persist bookmarks after closing and reopening Unity
 - Associate nicknames to bookmarks for context
 - Change the bookmark count via the Inspector Window
+
+![Scene Shot Bookmarks Editor Window Custom Count](http://derekknox.com/articles/scene-shot-bookmarks-in-unity/assets/img/scene-shot-bookmarks-custom-editor-count.png "Scene Shot Bookmarks Editor Window Custom Count")
