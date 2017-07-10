@@ -21,7 +21,7 @@ Once installed, you can:
 
 Additionally, you can:
 - Share bookmarks with your team (via source control)
-- Persist bookmarks after closing and reopening Unity
+- Persist bookmarks after closing and reopening Unity (thanks ScriptableObject)
 - Associate nicknames to bookmarks for context
 - Change the bookmark count via the Inspector Window
 
