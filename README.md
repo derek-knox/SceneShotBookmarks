@@ -12,7 +12,7 @@ Read more about the origin of Scene Shot Bookmarks at [derekknox.com/articles/sc
     - `SceneShotBookmarkModel`
     - `SceneShotBookmarksScriptableObject`
     - `SceneShotBookmarksWindow`
-3. In Unity, click the Window menu followed by clicking the `SceneShotBookmarks` option
+3. In Unity, click the Window menu followed by clicking the `Scene Shot Bookmarks` option
 
 ## Usage
 Once installed, you can:
