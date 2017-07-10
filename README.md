@@ -1,5 +1,5 @@
 # Scene Shot Bookmarks
-Unity custom editor for bookmarking Scene View camera angles/settings
+Unity custom editor for bookmarking and resetting Scene View camera angles/settings in one-click
 
 ![Scene Shot Bookmarks Editor Window](http://derekknox.com/articles/scene-shot-bookmarks-in-unity/assets/img/scene-shot-bookmarks-custom-editor.png "Scene Shot Bookmarks Editor Window")
 
