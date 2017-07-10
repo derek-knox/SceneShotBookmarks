@@ -108,6 +108,9 @@ public class SceneShotBookmarksWindow : EditorWindow
 		currentBookmarkModel.rotation =  sceneViewCamera.transform.rotation;
 		currentBookmarkModel.orthographic =  sceneViewCamera.orthographic;
 		currentBookmarkModel.orthographicSize = sceneViewCamera.orthographicSize;
+
+		// Clear potential TextField focus
+		GUI.FocusControl(null);
 	}
 
 	private void setToBookmark(SceneShotBookmarkModel model)
@@ -119,6 +122,9 @@ public class SceneShotBookmarksWindow : EditorWindow
 		sceneView.orthographic = model.orthographic;
 		sceneView.size = model.orthographicSize;
 		SceneView.RepaintAll();
+
+		// Clear potential TextField focus
+		GUI.FocusControl(null);
 	}
 
 	private void alignUI()
